@@ -19,3 +19,6 @@ res1 = calc(arr1, arr2, 3)
 # calc(arr1, arr2)
 print(res1)
 
+def add(x,y):
+    return x+y
+
